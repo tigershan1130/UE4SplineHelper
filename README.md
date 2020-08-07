@@ -7,4 +7,4 @@ Your input should always be set of TArray<FVector> Control points, tangent shoul
 
 ![alt text](https://github.com/tigershan1130/UE4SplineHelper/blob/master/ConstructBezierWithCatmullRomMod.jpg)
 
-The picture only shows how to display tangent handle points and control points, if you want to actually modify those points, you will need to implement your own tool solution.
+The project only shows how to generate and display tangent handle points and control points, if you want to actually modify those points in runtime or editor, you should implement your own solution.
